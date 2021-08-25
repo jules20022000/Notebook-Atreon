@@ -1,38 +1,38 @@
 
 sexe;age;size;weight;smoker;sporty;chronic disease;malnutrition;category
-0;21;167;90;1;0;0;0;obese + smoker
-0;45;175;75;1;1;1;0;normal + smoker
-1;70;160;50;0;0;0;0;old + menopause
-1;20;180;45;1;1;0;0;anorexy + smoker
-0;67;167;67;1;1;1;0;old + smoker
-0;25;160;95;1;1;1;0;obese + smoker
-1;67;178;65;0;1;0;0;normal 
-0;25;160;95;1;1;1;0;obese + smoker
-1;41;172;80;1;1;1;0;normal + smoker
-0;42;173;70;1;1;1;0;normal + smoker
-1;35;165;105;1;1;1;0;obese + smoker
-0;17;163;93;1;1;1;0;obese + smoker
-1;31;170;35;1;1;0;0;anorexy + smoker
-0;50;166;31;1;1;0;0;anorexy + smoker
-0;27;175;32;1;1;0;0;anorexy + smoker
-1;65;178;50;0;1;1;0;old + menopause
-1;62;163;48;0;1;0;1;old + menopause
-0;73;167;67;1;0;0;0;old + smoker
-1;69;167;67;1;0;1;0;old + smoker
-1;60;167;67;1;1;0;0;old + smoker
-1;25;178;71;0;1;0;0;normal 
-0;37;170;62;0;1;0;0;normal 
-0;45;165;60;0;1;0;0;normal 
-1;63;163;50;1;0;0;0;old + menopause + smoker
-1;75;155;45;0;0;0;0;old + menopause
-1;72;181;65;0;0;0;0;old + menopause
-1;59;164;60;1;0;0;0;old + menopause + smoker
-0;45;180;140;1;0;1;0;obese + smoker
-1;37;150;102;1;0;0;0;obese + smoker
-0;28;168;98;1;0;0;0;obese + smoker
-0;25;173;70;1;0;0;0;normal + smoker
-1;19;164;75;1;0;0;0;normal + smoker
-0;38;170;74;1;0;1;0;normal + smoker
+0;21;167;90;1;0;0;0;obese + smoker +
+0;45;175;75;1;1;1;0;normal + smoker +
+1;70;160;50;0;0;0;0;old + menopause +
+1;20;180;45;1;1;0;0;anorexy + smoker +
+0;67;167;67;1;1;1;0;old + smoker +
+0;25;160;95;1;1;1;0;obese + smoker +
+1;67;178;65;0;1;0;0;normal +
+0;25;160;95;1;1;1;0;obese + smoker +
+1;41;172;80;1;1;1;0;normal + smoker +
+0;42;173;70;1;1;1;0;normal + smoker + 
+1;35;165;105;1;1;1;0;obese + smoker +
+0;17;163;93;1;1;1;0;obese + smoker +
+1;31;170;35;1;1;0;0;anorexy + smoker +
+0;50;166;31;1;1;0;0;anorexy + smoker +
+0;27;175;32;1;1;0;0;anorexy + smoker +
+1;65;178;50;0;1;1;0;old + menopause +
+1;62;163;48;0;1;0;1;old + menopause +
+0;73;167;67;1;0;0;0;old + smoker +
+1;69;167;67;1;0;1;0;old + smoker +
+1;60;167;67;1;1;0;0;old + smoker +
+1;25;178;71;0;1;0;0;normal +
+0;37;170;62;0;1;0;0;normal +
+0;45;165;60;0;1;0;0;normal +
+1;63;163;50;1;0;0;0;old + menopause + smoker +
+1;75;155;45;0;0;0;0;old + menopause +
+1;72;181;65;0;0;0;0;old + menopause +
+1;59;164;60;1;0;0;0;old + menopause + smoker +
+0;45;180;140;1;0;1;0;obese + smoker +
+1;37;150;102;1;0;0;0;obese + smoker +
+0;28;168;98;1;0;0;0;obese + smoker +
+0;25;173;70;1;0;0;0;normal + smoker +
+1;19;164;75;1;0;0;0;normal + smoker +
+0;38;170;74;1;0;1;0;normal + smoker +
 
 
 
