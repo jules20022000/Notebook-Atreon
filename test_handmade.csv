@@ -1,13 +1,26 @@
 name;sexe;age;general health;ease of activity;breathing problem;fatigue;overall pain;concentration;sleep quality;MLL
-Elisa;1;85;0;7;9;7;8;5;7;Yoga
-Alice;1;30;2;5;8;4;3;8;1;Sport
-Arthur;0;20;4;5;9;6;8;9;7;Dormir
-Danielle;1;70;8;6;5;3;9;5;10;Yoga
-Julien;0;34;3;1;4;10;3;10;8;Medicaments
-Juliette;1;61;3;2;7;6;3;3;3;Lecture
-Pierre;0;67;9;4;5;8;7;7;2;Medicaments
-Corentin;0;80;1;1;2;2;7;6;4;Yoga
-Cathy;1;38;5;8;10;7;0;4;7;Medicaments
-Suzanne;1;28;10;6;2;2;10;2;3;Manger
-A;0;20;8;6;3;4;2;6;4;Loisirs
-B;1;25;2;4;6;5;2;5;8;Medicaments
+Elisa;1;85;0;7;9;7;8;5;7;Yoga+Alimentation +
+Alice;1;30;2;5;8;4;3;8;1;Sport+
+Arthur;0;20;4;5;9;6;8;9;7;Dormir + Yoga +
+Danielle;1;70;8;6;5;3;9;5;10;Yoga+
+Julien;0;34;3;1;4;10;3;10;8;Medicaments+
+Juliette;1;61;3;2;7;6;3;3;3;Lecture+
+Pierre;0;67;9;4;5;8;7;7;2;Medicaments+
+Corentin;0;80;1;1;2;2;7;6;4;Yoga+
+Cathy;1;38;5;8;10;7;0;4;7;Medicaments+
+Suzanne;1;28;10;6;2;2;10;2;3;Manger+Alimentation+
+A;0;20;8;6;3;4;2;6;4;Loisirs+
+B;1;25;2;4;6;5;2;5;8;Medicaments+
+Elisa;1;85;0;7;9;7;8;5;7;Yoga+ 
+Alice;1;30;2;5;8;4;3;8;1;Sport+Alimentation +
+Arthur;0;20;4;5;9;6;8;9;7;Sport+
+Danielle;1;70;8;6;5;3;9;5;10;Medicaments+
+Julien;0;34;3;1;4;10;3;10;8;Television+Reflexion+
+Elisa;1;85;0;7;9;7;8;5;7;Dormir+Meditation+Fumer+
+Alice;1;30;2;5;8;4;3;8;1;Meditation+Alimentation+
+Arthur;0;20;4;5;9;6;8;9;7;Medicaments+Dormir+
+Danielle;1;70;8;6;5;3;9;5;10;Yoga+Exercices+
+Julien;0;34;3;1;4;10;3;10;8;Sport+Lecture+
+Julien;0;34;3;1;4;10;3;10;8;Reflexion+
+
+
